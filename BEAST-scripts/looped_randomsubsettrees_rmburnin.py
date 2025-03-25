@@ -40,7 +40,7 @@ def process_file(input_file, output_file, burnin_percentage):
     lines_after_burnin = lines_between[burnin_count:]
 
     # Subsample 1000 lines after removing burn-in
-    subsampled_lines = random.sample(lines_after_burnin, min(300, len(lines_after_burnin)))
+    subsampled_lines = random.sample(lines_after_burnin, min(1000, len(lines_after_burnin)))
 
     # Write to the output file
     with open(output_file, 'w') as file:
