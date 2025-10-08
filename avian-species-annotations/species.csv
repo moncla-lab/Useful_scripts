@@ -353,6 +353,7 @@ g.h,avian,avian,avian
 gadwall,gadwall,duck,anseriformes
 gadwall_duck,gadwall,duck,anseriformes
 gadwallduck,gadwall,duck,anseriformes
+gallus,gallus,chicken,galliformes
 gallus_gallus,chicken,chicken,galliformes
 gallusgallus,chicken,chicken,galliformes
 gannet,gannet,gannet,suliformes
@@ -403,6 +404,7 @@ greater_rhea,greater_rhea,rhea,rheiformes
 greater_sage_grouse,greater_sage_grouse,grouse,galliformes
 greaterscaup,greater_scaup,duck,anseriformes
 greaterwhitefrontedgoose,greater_white-fronted_goose,goose,anseriformes
+greateryellowlegs,greateryellowlegs,gull,charadriiformes
 greatgreyowl,great_grey_owl,owl,strigiformes
 greathornedowl,great_horned_owl,owl,strigiformes
 greattit,great_tit,passerine,passeriformes
@@ -728,6 +730,7 @@ swine,swine,swine,swine
 tachybaptusruficollis,little_grebe,grebe,podicipediformes
 tadorna_feruginea,ruddy_shelduck,duck,anseriformes
 tadorna_tadorna,common_shelduck,duck,anseriformes
+taiwanesechicken,taiwanesechicken,chicken,galliformes
 teal,teal_duck,duck,anseriformes
 texas,unknown,unknown,unknown
 thalasseussandvicensis,sandwich_tern,tern,charadriiformes
@@ -763,6 +766,7 @@ Western screech owl,western_screech_owl,owl,strigiformes
 western_grebe,western_grebe,grebe,podicipediformes
 western_sandpiper,western_sandpiper,shorebird,charadriiformes
 westernsandpiper,western_sandpiper,shorebird,charadriiformes
+westernsnowyplover,westernsnowyplover,shorebird,charadriiformes
 whistlingswan,tundra_swan,goose,anseriformes
 white_peckin_duck,pekin_duck,duck,anseriformes
 white-backedmunia,white-backed_munia,passerine,passeriformes
